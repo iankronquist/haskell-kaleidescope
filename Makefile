@@ -5,4 +5,4 @@ repl:
 	ghc repl.hs
 
 clean:
-	rm -f *.o *.hi
+	rm -f *.o *.hi repl
